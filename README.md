@@ -1,2 +1,2 @@
 # cours_py_h22
-text
+pour exécuter le code faire : python3 projet.py
